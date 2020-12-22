@@ -1,0 +1,11 @@
+[user]
+	email = eliemanuel@protonmail.com
+	name = Eli Emanuel
+[core]
+  editor = nvim
+[init]
+	defaultBranch = main
+[push]
+	default = simple
+[color]
+	ui = true
